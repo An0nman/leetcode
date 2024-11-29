@@ -25,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/An0nman/leetcode/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/An0nman/leetcode/tree/master/0682-baseball-game) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/An0nman/leetcode/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/An0nman/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
