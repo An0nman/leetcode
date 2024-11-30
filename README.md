@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/An0nman/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/An0nman/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/An0nman/leetcode/tree/master/0389-find-the-difference) |
 | [1894-merge-strings-alternately](https://github.com/An0nman/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Array
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/An0nman/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/An0nman/leetcode/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -51,5 +53,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/An0nman/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/An0nman/leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
