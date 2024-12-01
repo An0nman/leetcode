@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/An0nman/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/An0nman/leetcode/tree/master/0125-valid-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/An0nman/leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/An0nman/leetcode/tree/master/0088-merge-sorted-array) |
 | [0682-baseball-game](https://github.com/An0nman/leetcode/tree/master/0682-baseball-game) |
 ## Stack
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/An0nman/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/An0nman/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/An0nman/leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
