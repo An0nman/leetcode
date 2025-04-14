@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/An0nman/leetcode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/An0nman/leetcode/tree/master/0088-merge-sorted-array) |
 | [0682-baseball-game](https://github.com/An0nman/leetcode/tree/master/0682-baseball-game) |
+| [1656-count-good-triplets](https://github.com/An0nman/leetcode/tree/master/1656-count-good-triplets) |
 ## Stack
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/An0nman/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/An0nman/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/An0nman/leetcode/tree/master/0389-find-the-difference) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/An0nman/leetcode/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
