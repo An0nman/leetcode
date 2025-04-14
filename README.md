@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/An0nman/leetcode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/An0nman/leetcode/tree/master/0088-merge-sorted-array) |
 | [0682-baseball-game](https://github.com/An0nman/leetcode/tree/master/0682-baseball-game) |
 ## Stack
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/An0nman/leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/An0nman/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/An0nman/leetcode/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
