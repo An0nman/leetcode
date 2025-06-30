@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/An0nman/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/An0nman/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0088-merge-sorted-array](https://github.com/An0nman/leetcode/tree/master/0088-merge-sorted-array) |
 | [0682-baseball-game](https://github.com/An0nman/leetcode/tree/master/0682-baseball-game) |
 | [1656-count-good-triplets](https://github.com/An0nman/leetcode/tree/master/1656-count-good-triplets) |
@@ -78,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/An0nman/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/An0nman/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/An0nman/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
