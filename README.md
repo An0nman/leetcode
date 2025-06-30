@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/An0nman/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/An0nman/leetcode/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/An0nman/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/An0nman/leetcode/tree/master/0242-valid-anagram) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/An0nman/leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/An0nman/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/An0nman/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/An0nman/leetcode/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/An0nman/leetcode/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/An0nman/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
