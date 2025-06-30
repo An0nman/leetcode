@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/An0nman/leetcode/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/An0nman/leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/An0nman/leetcode/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/An0nman/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/An0nman/leetcode/tree/master/1656-count-good-triplets) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/An0nman/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
