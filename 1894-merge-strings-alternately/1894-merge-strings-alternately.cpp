@@ -1,26 +1,45 @@
-class Solution {
+class Solution
+{
 public:
-    string mergeAlternately(string word1, string word2) {
-        string result = "";
-        if (word1.length() <= word2.length()) {
-            for (int i = 0; i < word1.length(); i++) {
-                result += word1[i];
-                result += word2[i];
-            }
-            if (word1.length() != word2.length()) {
-                for (int i = word1.length(); i < word2.length(); i++) {
-                    result += word2[i];
-                }
-            }
-        } else {
-            for (int i = 0; i < word2.length(); i++) {
-                result += word1[i];
-                result += word2[i];
-            }
-            for (int i = word2.length(); i < word1.length(); i++) {
-                result += word1[i];
+    string mergeAlternately(string word1, string word2)
+    {
+        string mergedString;
+        char len;
+
+        if (word1.length() == word2.length())
+        {
+            for (int i = 0; i < word1.length(); i++)
+            {
+                mergedString += word1[i];
+                mergedString += word2[i];
             }
         }
-        return result;
+        else if (word1.length() > word2.length())
+        {
+            int i = 0;
+            for (i = 0; i < word2.length(); i++)
+            {
+                mergedString += word1[i];
+                mergedString += word2[i];
+            }
+            for (i; i < word1.length(); i++)
+            {
+                mergedString += word1[i];
+            }
+        }
+        else
+        {
+            int i = 0;
+            for (i = 0; i < word1.length(); i++)
+            {
+                mergedString += word1[i];
+                mergedString += word2[i];
+            }
+            for (i; i < word2.length(); i++)
+            {
+                mergedString += word2[i];
+            }
+        }
+        return mergedString;
     }
 };
