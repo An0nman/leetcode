@@ -8,7 +8,7 @@ class Solution:
             s[right]=temp
             left+=1
             right-=1
-
+            if left==right:break
         """
         Do not return anything, modify s in-place instead.
         """
