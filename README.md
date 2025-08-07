@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/An0nman/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/An0nman/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/An0nman/leetcode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/An0nman/leetcode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/An0nman/leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/An0nman/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/An0nman/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/An0nman/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/An0nman/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/An0nman/leetcode/tree/master/0344-reverse-string) |
 | [1894-merge-strings-alternately](https://github.com/An0nman/leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/An0nman/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0088-merge-sorted-array](https://github.com/An0nman/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/An0nman/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/An0nman/leetcode/tree/master/0189-rotate-array) |
 | [0682-baseball-game](https://github.com/An0nman/leetcode/tree/master/0682-baseball-game) |
 | [1656-count-good-triplets](https://github.com/An0nman/leetcode/tree/master/1656-count-good-triplets) |
 ## Stack
