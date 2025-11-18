@@ -7,6 +7,6 @@ public:
             if (bits[i] == 1)
                 i++;
         }
-        return i == bit_size - 1 ? true : false;
+        return i == bit_size  ? false :true;
     }
 };
