@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/An0nman/leetcode/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/An0nman/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1656-count-good-triplets](https://github.com/An0nman/leetcode/tree/master/1656-count-good-triplets) |
+| [2058-concatenation-of-array](https://github.com/An0nman/leetcode/tree/master/2058-concatenation-of-array) |
 ## Stack
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/An0nman/leetcode/tree/master/0682-baseball-game) |
+| [2058-concatenation-of-array](https://github.com/An0nman/leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
